@@ -1,4 +1,6 @@
-Welcome to my GitHub repository! 👋 Aspiring data analyst with a passion for transforming raw data into meaningful insights. I specialize in utilizing SQL, Excel, and Python to extract, analyze, and visualize data. Here's what you'll find in this repository:
+Welcome to my GitHub repository! 👋 
+Aspiring data analyst with a passion for transforming raw data into meaningful insights.
+I specialize in utilizing SQL, Excel, and Python to extract, analyze, and visualize data. Here's what you'll find in this repository:
 
 🚀 Skills
 SQL
@@ -11,12 +13,7 @@ Python
 Primary programming language for data analysis tasks.
 Familiar with data manipulation libraries such as Pandas, NumPy, and data visualization libraries like Matplotlib and Seaborn.
 📂 Projects
-[Project 1: Sales Analysis]
-Analyzed sales data using SQL to identify trends and patterns.
-Created dynamic Excel dashboards for easy visualization of key performance indicators.
-[Project 2: Customer Segmentation]
-Utilized Python and Pandas to segment customers based on their purchasing behavior.
-Visualized results using Matplotlib to provide actionable insights for marketing strategies.
+
 🌐 Online Courses
 [Coursera: SQL Fundamentals]
 Completed an online course covering SQL basics, advanced queries, and database optimization.
