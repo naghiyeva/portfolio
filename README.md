@@ -15,6 +15,7 @@ Aspiring data analyst with a passion for transforming raw data into meaningful i
 - [Project 3: Indexing Strategies](./indexes.sql): Implementation of clustered and non-clustered indexes for database optimization.
 - [Project 4: User-Defined Functions](./sql_functions.sql): User-defined functions for specific data manipulations and calculations.
 - [Project 5: Backup, Restore, Import](./backup_restore.sql): Scripts for database backup, restore, and data import operations.
+- [Project 6: Excel Functions](./excel_portfolio_explanation.md): Excel files showcasing expertise in LOOKUP, INDEX, MATCH, SUMIFS, Pivot Tables, Pivot Chart, Slicers, Sales Performance Dashboard, Scenario Manager, and Solver (Data Modeling).
 
 ## 🌐 Online Courses
 
@@ -23,4 +24,4 @@ Aspiring data analyst with a passion for transforming raw data into meaningful i
 
 ## 📬 Let's Connect!
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about data! Connect with me on [LinkedIn](#) or drop me an email at [naghiyevafatimaa@gmail.com](mailto:naghiyevafatim
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about data! Connect with me on [LinkedIn](#) or drop me an email at [naghiyevafatimaa@gmail.com](mailto:naghiyevafatimaa@gmail.com).
